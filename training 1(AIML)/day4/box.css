@@ -1,0 +1,46 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: solid 5px black;
+}
+.container{
+    background-color: aqua;
+    position: relative;
+}
+#one{
+    background-color: brown;
+}
+#two{
+    background-color: darkviolet;
+}
+#three{
+    background-color: indigo;
+}
+#four{
+    background-color: orangered;
+}
+#o{
+    position: absolute;
+    left: 420px;
+    top: 20px;
+}
+#t{
+    position: absolute;
+    left: 580px;
+    top: 20px;
+}
+#v{
+    position: absolute;
+    left: 580px;
+    top: 200px;
+}
+#r{
+    position: absolute;
+    left: 420px;
+    top: 200px;
+}
+#f{
+    position: absolute;
+    left: 500px;
+    top: 110px;
+}
